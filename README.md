@@ -1,4 +1,4 @@
-<h1 align="center">Hi friends👋, I'm Shih-Yi (Winnie) Hsiung</h1>
+<h1 align="center">Hi friends👋, I'm Winnie Hsiung</h1>
 <h3 align="center">A polysaccharide scientist working on biomedical informatics</h3>
 
 <p align="left"> <a href="https://twitter.com/anaslaaa" target="blank"><img src="https://img.shields.io/twitter/follow/anaslaaa?logo=twitter&style=for-the-badge" alt="anaslaaa" /></a> </p>
