@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anaslaaa" target="blank"><img src="https://img.shields.io/twitter/follow/anaslaaa?logo=twitter&style=for-the-badge" alt="anaslaaa" /></a> </p>
 
-- 🔭 I’m currently working on **Glycan databases**
-
-🔭 I’m currently working on biomedical informatics. 
+🔭 I’m currently working on **Glycan databases**, **Biomedical**, and **Informatics**. 
 
 👯 I’m also looking to collaborate on data analysis and manuscript organization. 
 
