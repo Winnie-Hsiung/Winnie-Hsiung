@@ -15,7 +15,7 @@ If you are here, you must know the way to run multiple Python tasks. Here is a l
 1. Spyder (anaconda)
 2. Jupyter Notebook (anaconda)
 3. Google Colab - one account per window
-4. Github
+4. GitHub
 
 
 <h3 align="left">Connect with me:</h3>
